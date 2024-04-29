@@ -1,5 +1,5 @@
 # KIPerWeb recommenders <img align="right" height="100" top=-100 src="figures/kip.jpg">
-> TODO: Badges, logo
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 
 kiprec is a Python library for course recommendations in the context of vocational
 education. It contains multiple recommenders employing various Machine Learning
@@ -28,4 +28,15 @@ discuss what you would like to change.
 
 ## Consortia
 
+![](/figures/bfz.jpg)
+![](/figures/bnw.jpg)
+![](/figures/dfki.jpg)
+![](/figures/f-bb.jpg)
+![](/figures/ifbb.jpg)
+![](/figures/oncampus.jpg)
+![](/figures/provadis.jpg)
+
 ## Supported by
+
+![](/figures/bibb.png)
+![](/figures/bmbf.png)
