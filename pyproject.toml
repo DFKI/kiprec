@@ -1,0 +1,8 @@
+[project]
+name = "kiprec"
+version = "1.0.0.dev1"
+description = "kiprec is a Python package for course recommendations in the context of vocational education. It contains multiple recommenders employing various Machine Learning approaches."
+
+[build-system]
+requires = ["setuptools >= 61.0.0"]
+build-backend = "setuptools.build_meta"
