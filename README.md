@@ -1,7 +1,5 @@
-# KIPerWeb recommenders
+# KIPerWeb recommenders <img align="right" height="100" top=-100 src="figures/kip.jpg">
 > TODO: Badges, logo
-
-<img align="right" height="100" top=-100 src="figures/kip.jpg">
 
 kiprec is a Python library for course recommendations in the context of vocational
 education. It contains multiple recommenders employing various Machine Learning
