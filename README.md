@@ -6,9 +6,6 @@ education. It contains multiple recommenders employing various Machine Learning
 approaches. Namely:
 - Topic Recommender
 - Preference-based Recommender
-- Knowledge-based Recomender (TBD)
-- Statistical Recommender (TBD)
-- Semantic-Search Recommender (TBD)
 
 ## Installation
 To install use following command in the project folder:
